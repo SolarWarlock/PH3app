@@ -21,8 +21,8 @@
     "path": "C:\\Users\\54321\\Desktop\\Univer\\5_semester\\HistorySite\\PH3app\\android.keystore",
     "alias": "TKAB"
   },
-  "appVersionName": "3",
-  "appVersionCode": 3,
+  "appVersionName": "4",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/refs/heads/main/public/manifest.json",
@@ -44,7 +44,7 @@
   "fileHandlers": [],
   "launchHandlerClientMode": "",
   "displayOverride": [],
-  "appVersion": "3",
+  "appVersion": "4",
   "enableUrlBarHiding": true,
   "enableHideHeaders": true
 }
