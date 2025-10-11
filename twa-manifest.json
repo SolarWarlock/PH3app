@@ -10,19 +10,19 @@
   "navigationColorDark": "#000000",
   "navigationDividerColor": "#000000",
   "navigationDividerColorDark": "#000000",
-  "backgroundColor": "#92400E",
+  "backgroundColor": "#FFF6D0",
   "enableNotifications": true,
   "startUrl": "/",
-  "iconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/be3af009305008883c1c7c52ddf0f8a1265e1fa6/public/icons/icon_512x512.png",
-  "maskableIconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/be3af009305008883c1c7c52ddf0f8a1265e1fa6/public/icons/icon_512x512.png",
-  "monochromeIconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/main/public/icons/monocrhome512x512.png",
+  "iconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/main/public/icons/icon.png",
+  "maskableIconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/main/public/icons/icon.png",
+  "monochromeIconUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/main/public/icons/icon_monocrhome.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "C:\\Users\\54321\\Desktop\\Univer\\5_semester\\HistorySite\\PH3app\\android.keystore",
     "alias": "TKAB"
   },
-  "appVersionName": "8",
-  "appVersionCode": 8,
+  "appVersionName": "9",
+  "appVersionCode": 9,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://raw.githubusercontent.com/SolarWarlock/nextjs-boilerplate3/refs/heads/main/public/manifest.json",
@@ -48,5 +48,5 @@
   "fileHandlers": [],
   "launchHandlerClientMode": "",
   "displayOverride": [],
-  "appVersion": "8"
+  "appVersion": "9"
 }
